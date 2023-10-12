@@ -1,0 +1,88 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    position: relative;
+    left: 500px;
+}
+.image{
+    height: 500px;
+    width: 700px;   
+    position: relative;
+    left: 200px;
+}
+.tem{
+    font-size: large;
+    font-weight: bold;
+   position: absolute;
+   left: 400px;
+}
+.Fact{
+    font-weight: bolder;
+    font-size: larger;
+    position: sticky;
+}
+.yudd{
+    font-size:large ;
+    font-weight: bold;
+}
+.war{
+    font-weight: bold;
+    font-style: italic;
+    position: absolute;
+    left: 400px;
+}
+.dhanu{
+    font-size: large;
+    font-weight: bold;
+}
+.mal{
+    font-weight: bold;
+    font-size: large;
+}
+.img2{
+    position: sticky;
+   width: 960px;
+}
+.img3{
+    position: sticky;
+    width: 960px;
+}
+.img4{
+    position: sticky;
+    width: 960px;
+    height: 600px;
+}
+.var{
+    font-size: large;
+    font-weight: bold;
+}
+.mush{
+    font-size: large;
+    font-weight: bold;
+}
+.img5{
+    position: sticky;
+    width: 500px;
+}
+.sila{
+    font-size: large;
+    font-weight: bold;
+}
+.img6{
+    width: 960px;
+}
+.nav {
+    background-color: aliceblue;
+    height: 40px;
+}
+li {
+    display: inline-block;
+}
+#home {
+    margin-top: 10px;
+    
+}
+#con {
+    margin-left: 100px;
+}
